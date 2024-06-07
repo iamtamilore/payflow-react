@@ -1,0 +1,19 @@
+{
+    "name": "my-node-app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      // your dependencies here
+    },
+    "devDependencies": {
+      "jest": "^27.0.0"
+    }
+  }
+  
